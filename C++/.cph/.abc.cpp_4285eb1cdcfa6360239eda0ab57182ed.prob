@@ -1,0 +1,1 @@
+{"name":"Local: abc","url":"c:\\Users\\12392\\Desktop\\code\\C++\\abc.cpp","tests":[{"id":1742267469178,"input":"10\nCGAGTCAGCT","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\12392\\Desktop\\code\\C++\\abc.cpp","group":"local","local":true}
